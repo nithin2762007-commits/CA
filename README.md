@@ -29,7 +29,6 @@ Python programs that demonstrate core computer architecture concepts: 8-bit two'
 ### Output
 
 ![Program 1 Output](screenshots/output1.png)
-![Program 1 Output](output1.png)
 
 ---
 
