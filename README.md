@@ -26,12 +26,6 @@ Python programs that demonstrate core computer architecture concepts: 8-bit two'
 
 > **Note:** The `MISMATCH` in the last case is expected. 150 is outside the 8-bit signed range (-128 to +127), so overflow is detected and the result wraps around to -106.
 
-### Output
-
-![Program 1 Output](screenshots/output1.png)
-![Output 1](screenshot/output1.png)
-
----
 
 ## Program 2: Logical Shifts (`pgm2.py`)
 
@@ -44,11 +38,6 @@ Python programs that demonstrate core computer architecture concepts: 8-bit two'
 | Left shift | `10110110` | 2 | `11011000` |
 | Right shift | `11010100` | 2 | `00110101` |
 
-### Output
-
-![Program 2 Output](screenshots/output2.png)
-
----
 
 ## How to Run
 
